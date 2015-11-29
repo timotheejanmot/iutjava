@@ -1,0 +1,8 @@
+package edu.iut.app;
+
+import java.util.Date;
+import java.util.List;
+
+public interface Criteria {
+	   public List<ExamEvent> meetCriteria(List<ExamEvent> ex,Date criteram);
+}

@@ -1,0 +1,20 @@
+package edu.iut.app;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class CriteriaDate implements Criteria{
+
+	@Override
+	public List<ExamEvent> meetCriteria(List<ExamEvent> exam, String criter) {
+		 List<ExamEvent> EventOk = new ArrayList<ExamEvent>(); 
+	      
+	      for (ExamEvent exame : exam) {
+	         if(exam.examDate().equalsIgnoreCase(criter)){
+	        	 EventOk.add(exam);
+	         }
+	      }
+	      return EventOk;
+	}
+
+}

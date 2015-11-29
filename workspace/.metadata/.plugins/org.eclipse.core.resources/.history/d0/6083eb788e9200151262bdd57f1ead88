@@ -1,0 +1,13 @@
+package edu.iut.app;
+
+import java.util.List;
+
+public class CriteriaDate implements Criteria{
+
+	@Override
+	public List<ExamEvent> meetCriteria(List<ExamEvent> exam, String criter) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

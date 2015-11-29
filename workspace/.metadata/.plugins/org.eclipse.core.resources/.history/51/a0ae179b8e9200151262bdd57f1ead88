@@ -1,0 +1,20 @@
+package edu.iut.app;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class CriteriaDate implements Criteria{
+
+	@Override
+	public List<ExamEvent> meetCriteria(List<ExamEvent> exam, String criter) {
+		 List<ExamEvent> malePersons = new ArrayList<ExamEvent>(); 
+	      
+	      for (Person exam : ExamEvent) {
+	         if(exam.getGender().equalsIgnoreCase("MALE")){
+	            malePersons.add(exam);
+	         }
+	      }
+	      return malePersons;
+	}
+
+}

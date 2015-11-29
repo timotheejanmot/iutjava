@@ -1,13 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-<typeInfo handle="=iuttp2/src&lt;edu.iut.app{ApplicationWarningLog.java[ApplicationWarningLog" modifiers="1" timestamp="1447001563000"/>
-<typeInfo handle="=iuttp2/src&lt;edu.iut.app{AbstractApplicationLog.java[AbstractApplicationLog" modifiers="1025" timestamp="1447001563000"/>
-<typeInfo handle="=iuttp2/src&lt;edu.iut.app{ApplicationErrorLog.java[ApplicationErrorLog" modifiers="1" timestamp="1447001563000"/>
-<typeInfo handle="=iuttp2/src&lt;edu.iut.app{ApplicationInfoLog.java[ApplicationInfoLog" modifiers="1" timestamp="1447001563000"/>
-<typeInfo handle="=iuttp2/src&lt;edu.iut.app{ApplicationLogs.java[ApplicationLogs" modifiers="1" timestamp="1447001563000"/>
-<typeInfo handle="=iuttp2/src&lt;edu.iut.app{ApplicationSession.java[ApplicationSession" modifiers="1" timestamp="1447435535436"/>
-<typeInfo handle="=iuttp2/src&lt;edu.iut.gui.listeners{AbstractApplicationMessageDialog.java[AbstractApplicationMessageDialog" modifiers="1025" timestamp="1447001563000"/>
-<typeInfo handle="=iuttp2/src&lt;edu.iut.gui.listeners{ApplicationErrorMessageDialog.java[ApplicationErrorMessageDialog" modifiers="1" timestamp="1447001563000"/>
-<typeInfo handle="=iuttp2/src&lt;edu.iut.gui.listeners{ApplicationInfoMessageDialog.java[ApplicationInfoMessageDialog" modifiers="1" timestamp="1447001563000"/>
-<typeInfo handle="=iuttp2/src&lt;edu.iut.gui.listeners{ApplicationWarningMessageDialog.java[ApplicationWarningMessageDialog" modifiers="1" timestamp="1447001563000"/>
-</typeInfoHistroy>
+<typeInfoHistroy/>
